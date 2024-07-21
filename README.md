@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**pankajpc15/pankajpc15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Pankaj, a Software Engineer from 🇮🇳 passionate about backend development, microservices architecture, and cloud-native applications with over 1 year of professional experience. 🎯
 
-Here are some ideas to get you started:
+I mostly work with Java, Spring Boot, and cloud-based technologies. 🚀
 
-- 🔭 I’m currently working on ....
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠 DevOps
+- Docker
+- Kubernetes
+- AWS
+
+💾 Databases and Monitoring
+- MySQL
+- PostgreSQL
+- Swagger
+- Postman
+
+📫 How to reach me?
+- Visit my https://www.linkedin.com/in/pankaj-chaudhari/ 👨🏻‍💻
+- Shoot me an (pankaj21003@gmail.com) 💌
