@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Pankaj, a Software Engineer from 🇮🇳 passionate about backend development, microservices architecture, and cloud-native applications with over 1 year of professional experience. 🎯
+I am Pankaj, a Software Engineer passionate about backend development, microservices architecture, and cloud-native applications with over 1 year of professional experience. 🎯
 
 I mostly work with Java, Spring Boot, and cloud-based technologies. 🚀
 
